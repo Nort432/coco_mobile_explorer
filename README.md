@@ -1,6 +1,9 @@
 # coco_mobile_explorer
 
-A new Flutter project.
+- Open app
+- Write to TextField text
+- Press enter
+- Wait for the result
 
 ## Getting Started
 
